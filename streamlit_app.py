@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("ngoding seruuuuu")
+st.title("hai ilovelandonorris")
 st.write(
-    "haii ini lolaaa"
+    "lola juga sayang haruto"
 )
